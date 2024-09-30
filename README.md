@@ -1,4 +1,4 @@
-# Social-media-web-app (https://github.com/)
+# Social-media-web-app (https://github.com/Ravi Kumar)
 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/84091455/208230388-5ca38084-1973-49fd-883a-bbdb4f51d3a6.png" height=200 /> </p>
@@ -54,10 +54,10 @@ Database: `Sqlite3`
 
 ### Installation
 
-1. - Fork the [repo](https://github.com/pkini2002/Social-media-web-app)
+1. - Fork the [repo](https://github.com/rkumar03081995/Truffle.git)
    - Clone the repo to your local system
    ```git
-   git clone https://github.com/pkini2002/Social-media-web-app.git
+   git clone https://github.com/rkumar03081995/Truffle.git
    cd Social-media-web-app
    ```
    Make sure you have python installed on your system.
@@ -115,16 +115,6 @@ Database: `Sqlite3`
    ```bash
    python manage.py runserver
 
-7. Configure SonarQube locally
-    ```bash
-    apt install unzip
-   adduser sonarqube
-   wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.4.0.54424.zip
-   unzip *
-   chmod -R 755 /home/sonarqube/sonarqube-9.4.0.54424
-   chown -R sonarqube:sonarqube /home/sonarqube/sonarqube-9.4.0.54424
-   cd sonarqube-9.4.0.54424/bin/linux-x86-64/
-   ./sonar.sh start
     
    
    
