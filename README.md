@@ -1,4 +1,4 @@
-# Social-media-web-app (https://github.com/samarth-p/College-ERP)
+# Social-media-web-app (https://github.com/)
 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/84091455/208230388-5ca38084-1973-49fd-883a-bbdb4f51d3a6.png" height=200 /> </p>
